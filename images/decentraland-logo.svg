@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="570px" height="570px" viewBox="0 0 570 570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31" fill-rule="nonzero">
+            <path d="M285,0 C442.401154,-2.89141229e-14 570,127.598846 570,285 C570,442.401154 442.401154,570 285,570 C127.598846,570 1.92760819e-14,442.401154 0,285 C-1.92760819e-14,127.598846 127.598846,2.89141229e-14 285,0 Z" id="Rectangle-29" fill="#FFFFFF"></path>
+            <g id="logo" transform="translate(96.000000, 96.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="189" cy="189" r="189"></circle>
+                <polygon id="Shape" fill="url(#linearGradient-2)" points="135 123 135 264 255 264"></polygon>
+                <polygon id="Shape" fill="#FFFFFF" points="15 264 135 264 135 123"></polygon>
+                <path d="M36,303 C46.794375,317.7225 59.5771875,330.885 73.875,342 L301.125,342 C315.422812,330.885 328.205625,317.7225 339,303 L36,303 Z" id="Shape" fill="#FC9965"></path>
+                <path d="M75,339 C106.73,363.4725 146.25,378 189,378 C231.75,378 271.27,363.4725 303,339 L75,339 Z" id="Shape" fill="#FF2D55"></path>
+                <polygon id="Shape" fill="url(#linearGradient-3)" points="252 198 252 303 339 303"></polygon>
+                <path d="M254.904648,264 L15,264 C20.9117998,277.9425 28.4445769,291.0075 37.2169249,303 L255,303 L255,264 L254.904648,264 L254.904648,264 Z" id="Shape" fill="#FFBC5B"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="165 303 252 303 252 198"></polygon>
+                <circle id="Oval" fill="#FFC95B" cx="255" cy="123" r="48"></circle>
+                <circle id="Oval" fill="#FFC95B" cx="135" cy="72" r="24"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
